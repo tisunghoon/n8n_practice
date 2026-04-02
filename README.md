@@ -1,2 +1,2 @@
 # n8n_practice
-n8n 실습
+n8n 실습파일
